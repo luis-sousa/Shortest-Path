@@ -8,7 +8,8 @@ Na Figura abaixo , temos a representação dos possíveis trajectos que o médico po
 ![alt text](https://raw.githubusercontent.com/luis-sousa/Shortest-Path/master/trajetos.png)
 
 
-Na Tabela abaixo, temos a representação para cada troço do gráfico: o comprimento do troço, a qualidade do pavimento, o tempo que o médico demora a percorrer o respectivo troço em dois momentos horários diferentes, em hora normal e em hora de ponta. 
+Na Tabela abaixo, temos a representação para cada troço do gráfico: o comprimento do troço, a qualidade do pavimento, o tempo que o médico demora a percorrer o respectivo troço em dois momentos horários diferentes, em hora normal e em hora de ponta.
+Toda esta tabela está representada nuum excel, usando a API Jexcelapi - http://jexcelapi.sourceforge.net. Neste caso foi criado um "mapa" para a tabela abaixo apresentada.
 
 ![alt text](https://raw.githubusercontent.com/luis-sousa/Shortest-Path/master/mapa.png)
 
