@@ -1,4 +1,4 @@
-# MuSec
+# Caminho mais curto
 Solução criada no ambito da disciplina de Estrutura de Dados do curso de Engenharia Informática por Luís Sousa, 8090228@estg.ipp.pt.
 A solução usa grafos com pesos para encontrar o melhor caminho para um médico que está no meio do trãnsito para chegar ao hospital.
 
